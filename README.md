@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @SashaPos
 - 👀 I’m interested in almost everything I use to interact with. Right now I'm in love with Unix-like operating systems
 - 🌱 I’m currently learning python, bash and a lot of other stuff
-- 💞️ I hope one day I'll become a real open-source warrior 😂
+- 💞️ I hope one day I'll become a real open-source warrior (but for now I'm going to continuously learn again and again)😂
 - 📫 How to reach me: postilha.a@gmail.com
+
 
 
 <!---
